@@ -1,4 +1,4 @@
-module github.com/samuong/alpaca
+module github.com/samuong/tapaculo/v2
 
 go 1.19
 
